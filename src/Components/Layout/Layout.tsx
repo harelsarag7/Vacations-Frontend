@@ -14,6 +14,7 @@ function Layout(): JSX.Element {
         : <></>}
             <Main/>
 			{/* <Footer/> */}
+
         </div>
     );
 }
